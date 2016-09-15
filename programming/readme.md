@@ -13,16 +13,18 @@ emptyFunc(); // undefined
 ## myProfile 
 **Part 1 of 2**
 * [ ] create an object called "myProfile" which has the following properties:
-_Populate each value with your own, so long as it adheres to the type_
-- * [ ] `name` with a `string` value
-- * [ ] `age` with a `number` value
-- * [ ] `knowsJavascript` with a `boolean` value
-- * [ ] `pets` with an `array` value
+
+_Populate each value with whatever you would like, so long as it adheres to the type_
+  * [ ] "name" with a `string` value
+  * [ ] "age" with a `number` value
+  * [ ] "knowsJavascript" with a `boolean` value
+  * [ ] "pets" with an `array` value
 
 ## printProfile 
 **Part 2 of 2**
 * [ ] create a function called "printProfile" that logs each property and value of `myProfile` in Part 1 of this exercise.
-_This, of course, assumes that you created `myProfile` correctly_
+
+_This assumes that `myProfile` was created correctly_
 
 Example :
 ```Javascript
