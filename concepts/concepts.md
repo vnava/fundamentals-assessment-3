@@ -3,10 +3,12 @@
 
 Answer each question below in your own words and be as thorough as possible.
 In addition to answering these questions and completing the other exercises, pushing your self-assessments to github is also an assessment in itself. By now you should know how to fork, clone, and ultimately push the repo using your command line (terminal) interface.
-* [ ] Forked, cloned, and pushed repo
+* [ ] Did you fork, clone, and push this repo?
+
+-
 
 * [ ] What are the two types of for loops that we have used in the course?
--	* [ ] When would you use each type?
+	* [ ] When would you use each type?
 
 * [ ] How would you access an element in an array?
 
@@ -44,3 +46,6 @@ var func = function(){
 * [ ] What is the difference between "arguments" and "parameters"?
 
 * [ ] "Not all properties of an object are methods, but all methods are properties." True or false? Justify your reasoning (you may use code to do so).
+
+* [ ] What is an anonymous function? What is the opposite of an anonymous function?
+
