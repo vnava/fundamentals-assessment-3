@@ -7,8 +7,6 @@
   **Do not be discouraged. This is a learning journey.**
 
   Complete as many exercises as you can, or do them to the best of your ability. The more you write down as you understand them at this point, the better you'll understand what you can work on.
-  
-  **This assessment is for you. Yes, you can look up information to answer the prompts, but make sure you're absorbing this information. Replicating code that you find without understanding it is not the best way to learn how to program.**
 
 - WARNING NO TESTS: As you can see, we haven't provided any tests. This is so that you can practice debugging without them. Copy and paste your code into your Chrome Console for a quick and easy way to test your code.
 
